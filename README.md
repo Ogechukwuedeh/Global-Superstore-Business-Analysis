@@ -42,10 +42,10 @@ The Power BI dashboard enables:
 - Sales growth does not always translate into profitability.
 
 # Project Structure
-`data → raw datasets
- sql → transformations & KPI logic
- powerbi → dashboard file
- documentation → business explanation`
+`- data → raw datasets
+ - sql → transformations & KPI logic
+ - powerbi → dashboard file
+ - documentation → business explanation`
 
 # Dashboard Preview
 ![Dashboard](Dashboard.png)
