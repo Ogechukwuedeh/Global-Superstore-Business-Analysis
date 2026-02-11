@@ -1,7 +1,7 @@
 # Global-Superstore-Business-Analysis
 End-to-end sales analytics project using Excel, SQL, and Power BI.
 
-### Project Overview
+## Project Overview
 This project transforms raw retail sales data into actionable business insights using an end-to-end analytics workflow:
 
 ### Excel → MySQL → Power BI 
@@ -10,7 +10,7 @@ The objective was to identify profit drivers, loss-making products, discount imp
 
 ---
 
-### Business Problem
+## Business Problem
 Leadership lacked visibility into:
 - which products generate profit vs losses,
 - how discounts affect margins,
@@ -20,14 +20,14 @@ Leadership lacked visibility into:
 
 ---
 
-### Tools Used
+## Tools Used
 - Excel — initial data exploration
 - MySQL — transformations, joins, KPI computation
 - Power BI — interactive executive dashboard
 
 ---
 
-### SQL Work Performed
+## SQL Work Performed
 - Joined Orders and Returns tables.
 - Aggregated sales and profit metrics.
 - Built region, category, and segment performance tables.
@@ -35,7 +35,7 @@ Leadership lacked visibility into:
 
 ---
 
-### Dashboard Capabilities
+## Dashboard Capabilities
 The Power BI dashboard enables:
 - real-time profitability monitoring,
 - identification of loss-making products, 
@@ -45,7 +45,7 @@ The Power BI dashboard enables:
 
 ---
 
-### Key Insights
+## Key Insights
 - Some product sub-categories consistently generate losses.
 - High discounts significantly reduce profit margins.
 - Returns contribute to hidden revenue loss.
@@ -53,7 +53,7 @@ The Power BI dashboard enables:
 
 ---
 
-### Project Structure
+## Project Structure
 ```
 - data → raw datasets
 - sql → transformations & KPI logic
@@ -63,11 +63,11 @@ The Power BI dashboard enables:
 
 ---
 
-### Dashboard Preview
+## Dashboard Preview
 ![Dashboard](Dashboard.png)
 
 ---
 
-#### Author
-#### Edeh Ogechukwu Evelyn
+## Author
+### Edeh Ogechukwu Evelyn
 Data Analyst | SQL | Power BI | Business Intelligence
