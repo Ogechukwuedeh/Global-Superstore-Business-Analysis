@@ -10,36 +10,36 @@ The objective was to identify profit drivers, loss-making products, discount imp
 
 # Business Problem
 Leadership lacked visibility into:
-• which products generate profit vs losses,
-• how discounts affect margins,
-• where returns impact revenue,
-• which regions underperform, and
-• what operational actions to take.
+- • which products generate profit vs losses,
+- • how discounts affect margins,
+- • where returns impact revenue,
+- • which regions underperform, and
+- • what operational actions to take.
 
 # Tools Used
-• Excel — initial data exploration
-• MySQL — transformations, joins, KPI computation
-• Power BI — interactive executive dashboard
+- • Excel — initial data exploration
+- • MySQL — transformations, joins, KPI computation
+- • Power BI — interactive executive dashboard
 
 # SQL Work Performed
-• Joined Orders and Returns tables.
-• Aggregated sales and profit metrics.
-• Built region, category, and segment performance tables.
-• Prepared analytical datasets for BI
+- • Joined Orders and Returns tables.
+- • Aggregated sales and profit metrics.
+- • Built region, category, and segment performance tables.
+- • Prepared analytical datasets for BI
 
 # Dashboard Capabilities
 The Power BI dashboard enables:
-• real-time profitability monitoring,
-• identification of loss-making products, 
-• analysis of discount impact,
-• regional performance comparison, and
-• return rate tracking.
+- • real-time profitability monitoring,
+- • identification of loss-making products, 
+- • analysis of discount impact,
+- • regional performance comparison, and
+- • return rate tracking.
 
 # Key Insights
-• Some product sub-categories consistently generate losses.
-• High discounts significantly reduce profit margins.
-• Returns contribute to hidden revenue loss.
-• Sales growth does not always translate into profitability.
+- • Some product sub-categories consistently generate losses.
+- • High discounts significantly reduce profit margins.
+- • Returns contribute to hidden revenue loss.
+- • Sales growth does not always translate into profitability.
 
 # Project Structure
 `data → raw datasets
